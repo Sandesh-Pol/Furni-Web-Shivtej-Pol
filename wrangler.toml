@@ -1,0 +1,6 @@
+name = "furni-web-shivtej-pol"
+main = "index.html"
+compatibility_date = "2024-03-15"
+
+[site]
+bucket = "."
